@@ -1,0 +1,21 @@
+{
+  "generator": "evm-events-calls-raw",
+  "state": {
+    "name": "v1",
+    "chainName": "mainnet",
+    "contracts": [
+      {
+        "name": "sesh",
+        "trackEvents": true,
+        "trackCalls": true,
+        "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+        "initialBlock": 22471108,
+        "trackFactory": null,
+        "factoryCreationEvent": "",
+        "factoryCreationEventFieldIdx": null
+      }
+    ],
+    "dynamic_contracts": null,
+    "confirm_enough_contracts": true
+  }
+}
